@@ -76,7 +76,7 @@ for mp3_file in "$MP3_DIR"/*.mp3; do
     -ar 44100 \
     -ac 2 \
     -sample_fmt s16 \
-    -af "volume=3.0" \
+    -af "volume=2.0" \
     "$wav_out"
 
   # WAV -> ATRAC3
