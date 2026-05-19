@@ -11,14 +11,14 @@ Converter mp3 to at3 for mhp3rd
 
 ### File Name Matching
 
-Example from dump:
+Example from dump:  
 5816.wav
 
-Example mp3:
+Example mp3:  
 guild_hall_5816.mp3
 
-Convert hex:
-5816 - 1 = 5815 = 0x16B7
+Convert hex:  
+5816 - 1 = 5815 = 0x16B7  
 5816 = 16B7
 
 ### How to
@@ -29,7 +29,7 @@ Convert hex:
 4. Run `./converter.sh` to convert audio
 5. Check "audio_at3/" (ex: audio_at3/16B7)
 
-Use [Mod Manager](https://gamebanana.com/tools/19380) enable mod File Replacer.
+Use [Mod Manager](https://gamebanana.com/tools/19380) enable mod File Replacer.  
 Put the converted audio from "audio_at3/" into ".../P3RDHDML/FILES".
 
 ### References
